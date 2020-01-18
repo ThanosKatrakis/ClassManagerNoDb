@@ -1,0 +1,6 @@
+C:\Users\k.b.8anos\Desktop\IndividualProjectBrief_PART_A\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\k.b.8anos\Desktop\IndividualProjectBrief_PART_A\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\k.b.8anos\Desktop\IndividualProjectBrief_PART_A\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\k.b.8anos\Desktop\IndividualProjectBrief_PART_A\Assignment\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\k.b.8anos\Desktop\IndividualProjectBrief_PART_A\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\k.b.8anos\Desktop\IndividualProjectBrief_PART_A\Assignment\Assignment\obj\Debug\Assignment.pdb
